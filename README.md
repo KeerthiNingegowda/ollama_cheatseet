@@ -3,7 +3,7 @@ This page consists cheatsheet to use Ollama in different modes via CLI, Python a
 Note:- This is a soloware cheat sheet for me to use when using ollama. So the content is optimized for my understanding
 
 Operating system:- Ubuntu 24.04.3 LTS <br>
-Default ollama service URL - https://localhost:11434
+Default ollama service URL - https://localhost:11434 <br>
 Ollama python github - https://github.com/ollama/ollama-python/tree/main
 
 **CLI handy commands**
@@ -131,7 +131,7 @@ kill -9 <pid>
 
 **Ollama python**
 See the notebook above for most commonly used functionalities. Personally saves times instead of reading the documentation, especially the raw api.md
-
+https://github.com/KeerthiNingegowda/ollama_cheatseet/blob/main/ollama_python_api_cheatseet.ipynb
 
 
 
