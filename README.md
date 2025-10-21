@@ -27,13 +27,13 @@ See all the available commands as it relates to ollama
 ```
 ollama
 ```
-You should be able to see something like this (PUT AN IMAGE HERE)
+You should be able to see something like this ![Alt text](all_cmds.png)
 
 To list all the available environment variables as it relates to ollama
 ```
 ollama serve --all
 ```
-You should be able to see something like this (PUT AN IMAGE HERE)
+You should be able to see something like this ![Alt text](all_vars.png)
 
 Pull a model from remote
 ```
